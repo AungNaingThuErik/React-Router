@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with React Router
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Router Tutorial [Link](https://www.codingame.com/playgrounds/6517/react-router-tutorial).
 
 ## Available Scripts
 
